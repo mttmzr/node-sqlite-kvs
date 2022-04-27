@@ -19,6 +19,9 @@
     "SQLite"
   ],
   "author": "kujirahand",
+  "contributors": [
+    "mttmzr"
+  ],
   "bugs": {
     "url": "https://github.com/kujirahand/node-sqlite-kvs/issues"
   },
