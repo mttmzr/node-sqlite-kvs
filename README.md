@@ -38,9 +38,13 @@ try{
 
 open database
 
-## await  db.get(key)
+## await db.get(key)
 
 get value from key.
+
+## await db.has(key)
+
+check if has key.
 
 ## await db.put(key, value)
 
@@ -49,6 +53,10 @@ put value to key.
 ## await db.delete(key)
 
 delete key.
+
+## await db.purge(prefix)
+
+delete all keys with prefix.
 
 ## await db.all()
 
