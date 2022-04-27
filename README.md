@@ -1,5 +1,5 @@
 # node-sqlite-kvs
-Key-Value Store for Node.js using SQLite3
+Key-Value Store for Node.js using SQLite3, forked from [kujirahand/node-sqlite-kvs](https://github.com/kujirahand/node-sqlite-kvs)
 
 # install
 
